@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(seed|countries)\.json$">
+  Require all denied
+</FilesMatch>

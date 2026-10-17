@@ -1,0 +1,182 @@
+// Apparel/textile prospects researched on 13 September 2026. No active orders implied.
+const additions = [
+  [
+    "Zeeman",
+    "Netherlands",
+    "Alphen aan den Rijn",
+    52.13,
+    4.66,
+    "apparel, underwear and home textiles",
+    "Zeeman",
+    "https://www.zeeman.com/nl-nl/juridisch/algemene-voorwaarden",
+    "Terms and company identity",
+    "https://www.zeeman.com/nl-nl/nieuws/zeeman-maakt-productielocaties-openbaar-volgende-stap-in-transparantie"
+  ],
+  [
+    "HEMA",
+    "Netherlands",
+    "Amsterdam",
+    52.37,
+    4.9,
+    "apparel, basics and home textiles",
+    "HEMA",
+    "https://www.hema.nl/design/over-ons",
+    "About HEMA",
+    "https://corporate.hema.com/en/about-us/"
+  ],
+  [
+    "WE Fashion",
+    "Netherlands",
+    "Utrecht",
+    52.09,
+    5.12,
+    "menswear, womenswear and kidswear",
+    "WE Europe B.V.",
+    "https://www.wefashion.com/nl_NL/bedrijfsgegevens/",
+    "Company details",
+    "https://www.wefashion.com/nl_NL/stores"
+  ],
+  [
+    "terStal",
+    "Netherlands",
+    "Almelo",
+    52.36,
+    6.66,
+    "family apparel",
+    "terStal",
+    "https://www.terstal.nl/over-ons",
+    "About terStal",
+    null
+  ],
+  [
+    "JBC",
+    "Belgium",
+    "Houthalen",
+    51.03,
+    5.37,
+    "family apparel",
+    "Claes Retail Group",
+    "https://jobs.claesretailgroup.com/nl/jbc/over-jbc/afdelingen",
+    "JBC departments and head office",
+    "https://jobs.claesretailgroup.com/en/gallery/overview/download/224"
+  ],
+  [
+    "CKS",
+    "Belgium",
+    "Houthalen",
+    51.03,
+    5.37,
+    "apparel",
+    "Claes Retail Group",
+    "https://jobs.claesretailgroup.com/en/gallery/overview/download/224",
+    "2025 group sustainability report",
+    null
+  ],
+  [
+    "Mayerline",
+    "Belgium",
+    "Houthalen",
+    51.03,
+    5.37,
+    "apparel",
+    "Claes Retail Group",
+    "https://jobs.claesretailgroup.com/en/gallery/overview/download/224",
+    "2025 group sustainability report",
+    null
+  ],
+  [
+    "Bel&Bo",
+    "Belgium",
+    "Deerlijk",
+    50.85,
+    3.35,
+    "family apparel",
+    "Fabrimode NV",
+    "https://www.bel-bojobs.be/over-ons",
+    "About Bel&Bo",
+    "https://www.bel-bo.be/media/erp_sync_images/PDF_voorwaarden/algemenevoorwaarden_nl.pdf"
+  ],
+  [
+    "ZEB",
+    "Belgium",
+    "",
+    50.85,
+    4.35,
+    "multibrand fashion retail",
+    null,
+    "https://www.zeb.be/pages/about-us",
+    "About ZEB",
+    null
+  ],
+  [
+    "Salsa Jeans",
+    "Portugal",
+    "Vila Nova de Famalicão",
+    41.41,
+    -8.52,
+    "denim and apparel",
+    null,
+    "https://www.salsajeans.com/en/people-salsa-jeans_348.html",
+    "People and supply-chain partners",
+    "https://www.salsajeans.com/pt/marca/quem-somos_311.html"
+  ],
+  [
+    "Sacoor Brothers",
+    "Portugal",
+    "Lisbon",
+    38.72,
+    -9.14,
+    "menswear, womenswear and kidswear",
+    "Sacoor Brothers",
+    "https://pt.sacoorbrothers.com/pages/a-marca-sacoor",
+    "Our brand and history",
+    null
+  ],
+  [
+    "Lanidor",
+    "Portugal",
+    "",
+    39.5,
+    -8,
+    "apparel including womenswear and kidswear",
+    null,
+    "https://www.lanidor.com/",
+    "Official apparel collections",
+    "https://www.lanidor.com/html/info/new/ajuda_16_1_uk.html"
+  ],
+  [
+    "MO",
+    "Portugal",
+    "",
+    39.5,
+    -8,
+    "family apparel",
+    null,
+    "https://mo-online.com/pt/",
+    "Official MO store",
+    "https://news.cision.com/pt/sonae/r/sonae-anuncia-acordo-para-a-venda-das-marcas-de-moda-mo-e-zippy-a-atual-equipa-de-gestao,c638838778150000000"
+  ],
+  [
+    "Zippy",
+    "Portugal",
+    "",
+    39.5,
+    -8,
+    "babywear and kidswear",
+    null,
+    "https://zippyonline.com/pt",
+    "Official Zippy store",
+    null
+  ]
+];
+export const regionalBuyers = additions.map(([buyer,country,city,lat,lng,categories,group,url,title,extraUrl]) => ({
+  id: buyer.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]/g, ''),
+  buyer,country,city,lat,lng,categories,group,color:'#00ffff',
+  recordType: 'Brand / retail operation',
+  reviewStatus:'Portfolio source checked', reviewedAt:'2026-09-13',
+  directoryBatch:'nl-be-pt-2026-09-13',
+  locationBasis: city ? 'Illustrative city / group anchor; not a verified buying-office address' : 'Country anchor — office location not verified',
+  aliases: buyer === 'Zeeman' ? ['Zeeman textielSupers'] : [],
+  sources: [{url,title,publisher:group || buyer}, ...(extraUrl ? [{url:extraUrl,title:'Supporting company source',publisher:group || buyer}] : [])],
+}));
+

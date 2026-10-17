@@ -1,0 +1,4497 @@
+{
+  "reviewedAt": "2026-09-12",
+  "records": [
+    {
+      "id": "bestless",
+      "buyer": "Best&Less",
+      "country": "Australia",
+      "city": "",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Best&Less"
+      ]
+    },
+    {
+      "id": "cottonon",
+      "buyer": "Cotton On",
+      "country": "Australia",
+      "city": "Geelong",
+      "lat": -38.15,
+      "lng": 144.36,
+      "color": "#00ffff",
+      "group": "Cotton On Group",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://cottonon.com/AU/privacy-policy.html",
+          "title": "Privacy policy and group brands",
+          "publisher": "Cotton On Group"
+        }
+      ],
+      "aliases": [
+        "Cotton On"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "cottononbody",
+      "buyer": "Cotton On Body",
+      "country": "Australia",
+      "city": "Geelong",
+      "lat": -38.15,
+      "lng": 144.36,
+      "color": "#00ffff",
+      "group": "Cotton On Group",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://cottonon.com/AU/privacy-policy.html",
+          "title": "Privacy policy and group brands",
+          "publisher": "Cotton On Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "cottononkids",
+      "buyer": "Cotton On Kids",
+      "country": "Australia",
+      "city": "Geelong",
+      "lat": -38.15,
+      "lng": 144.36,
+      "color": "#00ffff",
+      "group": "Cotton On Group",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://cottonon.com/AU/privacy-policy.html",
+          "title": "Privacy policy and group brands",
+          "publisher": "Cotton On Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "factorie",
+      "buyer": "Factorie",
+      "country": "Australia",
+      "city": "Geelong",
+      "lat": -38.15,
+      "lng": 144.36,
+      "color": "#00ffff",
+      "group": "Cotton On Group",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://cottonon.com/AU/privacy-policy.html",
+          "title": "Privacy policy and group brands",
+          "publisher": "Cotton On Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "kmartaustralia",
+      "buyer": "Kmart Australia",
+      "country": "Australia",
+      "city": "Melbourne",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Kmart Australia"
+      ]
+    },
+    {
+      "id": "supre",
+      "buyer": "Supré",
+      "country": "Australia",
+      "city": "Geelong",
+      "lat": -38.15,
+      "lng": 144.36,
+      "color": "#00ffff",
+      "group": "Cotton On Group",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://cottonon.com/AU/privacy-policy.html",
+          "title": "Privacy policy and group brands",
+          "publisher": "Cotton On Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "targetaustralia",
+      "buyer": "Target Australia",
+      "country": "Australia",
+      "city": "",
+      "lat": -37.8136,
+      "lng": 144.9631,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Target Australia"
+      ]
+    },
+    {
+      "id": "belbo",
+      "buyer": "Bel&Bo",
+      "country": "Belgium",
+      "city": "Deerlijk",
+      "lat": 50.85,
+      "lng": 3.35,
+      "categories": "family apparel",
+      "group": "Fabrimode NV",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.bel-bojobs.be/over-ons",
+          "title": "About Bel&Bo",
+          "publisher": "Fabrimode NV"
+        },
+        {
+          "url": "https://www.bel-bo.be/media/erp_sync_images/PDF_voorwaarden/algemenevoorwaarden_nl.pdf",
+          "title": "Supporting company source",
+          "publisher": "Fabrimode NV"
+        }
+      ]
+    },
+    {
+      "id": "cks",
+      "buyer": "CKS",
+      "country": "Belgium",
+      "city": "Houthalen",
+      "lat": 51.03,
+      "lng": 5.37,
+      "categories": "apparel",
+      "group": "Claes Retail Group",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://jobs.claesretailgroup.com/en/gallery/overview/download/224",
+          "title": "2025 group sustainability report",
+          "publisher": "Claes Retail Group"
+        }
+      ]
+    },
+    {
+      "id": "jbc",
+      "buyer": "JBC",
+      "country": "Belgium",
+      "city": "Houthalen",
+      "lat": 51.03,
+      "lng": 5.37,
+      "categories": "family apparel",
+      "group": "Claes Retail Group",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://jobs.claesretailgroup.com/nl/jbc/over-jbc/afdelingen",
+          "title": "JBC departments and head office",
+          "publisher": "Claes Retail Group"
+        },
+        {
+          "url": "https://jobs.claesretailgroup.com/en/gallery/overview/download/224",
+          "title": "Supporting company source",
+          "publisher": "Claes Retail Group"
+        }
+      ]
+    },
+    {
+      "id": "mayerline",
+      "buyer": "Mayerline",
+      "country": "Belgium",
+      "city": "Houthalen",
+      "lat": 51.03,
+      "lng": 5.37,
+      "categories": "apparel",
+      "group": "Claes Retail Group",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://jobs.claesretailgroup.com/en/gallery/overview/download/224",
+          "title": "2025 group sustainability report",
+          "publisher": "Claes Retail Group"
+        }
+      ]
+    },
+    {
+      "id": "zeb",
+      "buyer": "ZEB",
+      "country": "Belgium",
+      "city": "",
+      "lat": 50.85,
+      "lng": 4.35,
+      "categories": "multibrand fashion retail",
+      "group": null,
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Country anchor — office location not verified",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.zeb.be/pages/about-us",
+          "title": "About ZEB",
+          "publisher": "ZEB"
+        }
+      ]
+    },
+    {
+      "id": "cabrazil",
+      "buyer": "C&A Brazil",
+      "country": "Brazil",
+      "city": "Sao Paulo",
+      "lat": -23.5505,
+      "lng": -46.6333,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "C&A Brazil"
+      ]
+    },
+    {
+      "id": "hering",
+      "buyer": "Hering",
+      "country": "Brazil",
+      "city": "Blumenau",
+      "lat": -26.922,
+      "lng": -49.066,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Hering"
+      ]
+    },
+    {
+      "id": "lojasamericanas",
+      "buyer": "Lojas Americanas",
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Lojas Americanas"
+      ]
+    },
+    {
+      "id": "marisa",
+      "buyer": "Marisa",
+      "country": "Brazil",
+      "city": "Sao Paulo",
+      "lat": -23.5505,
+      "lng": -46.6333,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Marisa",
+        "Lojas Marisa"
+      ]
+    },
+    {
+      "id": "renner",
+      "buyer": "Renner",
+      "country": "Brazil",
+      "city": "Porto Alegre",
+      "lat": -30.0346,
+      "lng": -51.2177,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Renner",
+        "Lojas Renner"
+      ]
+    },
+    {
+      "id": "riachuelo",
+      "buyer": "Riachuelo",
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Riachuelo",
+        "Lojas Riachuelo"
+      ]
+    },
+    {
+      "id": "aritzia",
+      "buyer": "Aritzia",
+      "country": "Canada",
+      "city": "",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Aritzia"
+      ]
+    },
+    {
+      "id": "canadagoose",
+      "buyer": "Canada Goose",
+      "country": "Canada",
+      "city": "",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Canada Goose"
+      ]
+    },
+    {
+      "id": "joefresh",
+      "buyer": "Joe Fresh",
+      "country": "Canada",
+      "city": "",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Joe Fresh"
+      ]
+    },
+    {
+      "id": "lululemon",
+      "buyer": "Lululemon",
+      "country": "Canada",
+      "city": "Vancouver",
+      "lat": 49.2827,
+      "lng": -123.1207,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Lululemon Athletica",
+        "Lululemon"
+      ]
+    },
+    {
+      "id": "marks",
+      "buyer": "Mark's",
+      "country": "Canada",
+      "city": "",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Mark's"
+      ]
+    },
+    {
+      "id": "mecmountainequipmentcoop",
+      "buyer": "MEC (Mountain Equipment Co-op)",
+      "country": "Canada",
+      "city": "",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "MEC (Mountain Equipment Co-op)"
+      ]
+    },
+    {
+      "id": "rootscanada",
+      "buyer": "Roots Canada",
+      "country": "Canada",
+      "city": "",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Roots Canada"
+      ]
+    },
+    {
+      "id": "simons",
+      "buyer": "Simons",
+      "country": "Canada",
+      "city": "",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Simons"
+      ]
+    },
+    {
+      "id": "sportchek",
+      "buyer": "Sport Chek",
+      "country": "Canada",
+      "city": "",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Sport Chek"
+      ]
+    },
+    {
+      "id": "falabella",
+      "buyer": "Falabella",
+      "country": "Chile",
+      "city": "Santiago",
+      "lat": -33.45,
+      "lng": -70.67,
+      "color": "#00ffff",
+      "group": "Falabella Retail",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.falabella.com/falabella-cl/page/falabella-retail",
+          "title": "Falabella Retail",
+          "publisher": "Falabella Retail"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "ripley",
+      "buyer": "Ripley",
+      "country": "Chile",
+      "city": "Santiago",
+      "lat": -33.45,
+      "lng": -70.67,
+      "color": "#00ffff",
+      "group": "Ripley",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://inversionistas.ripley.com/Spanish/Inicio/",
+          "title": "Investor relations",
+          "publisher": "Ripley"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "anta",
+      "buyer": "ANTA",
+      "country": "China",
+      "city": "Xiamen",
+      "lat": 24.48,
+      "lng": 118.09,
+      "color": "#00ffff",
+      "group": "ANTA Sports",
+      "categories": "sportswear",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://ir.anta.com/en/brand.php",
+          "title": "Brands",
+          "publisher": "ANTA Sports"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "filachina",
+      "buyer": "FILA (China)",
+      "country": "China",
+      "city": "Xiamen",
+      "lat": 24.48,
+      "lng": 118.09,
+      "color": "#00ffff",
+      "group": "ANTA Sports",
+      "categories": "sportswear",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://ir.anta.com/en/brand.php",
+          "title": "Brands",
+          "publisher": "ANTA Sports"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "giordano",
+      "buyer": "Giordano",
+      "country": "China",
+      "city": "Hong Kong",
+      "lat": 22.32,
+      "lng": 114.17,
+      "color": "#00ffff",
+      "group": "Giordano",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corp.giordano.com.hk/en/",
+          "title": "Corporate website",
+          "publisher": "Giordano"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "bestseller",
+      "buyer": "Bestseller",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [
+        "Bestseller"
+      ],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "jackjones",
+      "buyer": "Jack & Jones",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [
+        "Jack & Jones"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "jdy",
+      "buyer": "JDY",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "jjxx",
+      "buyer": "JJXX",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "jysk",
+      "buyer": "JYSK",
+      "country": "Denmark",
+      "city": "Aarhus",
+      "lat": 56.16,
+      "lng": 10.2,
+      "color": "#00ffff",
+      "group": "JYSK",
+      "categories": "home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.jysk.com/about-us",
+          "title": "About JYSK",
+          "publisher": "JYSK"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "nameit",
+      "buyer": "NAME IT",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "object",
+      "buyer": "OBJECT",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "only",
+      "buyer": "Only",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [
+        "Only"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "onlysons",
+      "buyer": "ONLY & SONS",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "pieces",
+      "buyer": "PIECES",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "veromoda",
+      "buyer": "Vero Moda",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [
+        "Vero Moda"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "yas",
+      "buyer": "Y.A.S.",
+      "country": "Denmark",
+      "city": "Brande",
+      "lat": 55.94,
+      "lng": 9.13,
+      "color": "#00ffff",
+      "group": "Bestseller",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://bestseller.com/brands",
+          "title": "Our brands",
+          "publisher": "Bestseller"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "auchan",
+      "buyer": "Auchan",
+      "country": "France",
+      "city": "Lille",
+      "lat": 50.6292,
+      "lng": 3.0573,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Auchan"
+      ]
+    },
+    {
+      "id": "carrefourtex",
+      "buyer": "Carrefour Tex",
+      "country": "France",
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Carrefour Tex"
+      ]
+    },
+    {
+      "id": "casinogroup",
+      "buyer": "Casino Group",
+      "country": "France",
+      "city": "",
+      "lat": 50.6556,
+      "lng": 3.1868,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Casino Group"
+      ]
+    },
+    {
+      "id": "decathlon",
+      "buyer": "Decathlon",
+      "country": "France",
+      "city": "",
+      "lat": 50.6556,
+      "lng": 3.1868,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Decathlon"
+      ]
+    },
+    {
+      "id": "kiabi",
+      "buyer": "Kiabi",
+      "country": "France",
+      "city": "Hem",
+      "lat": 50.6556,
+      "lng": 3.1868,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Kiabi"
+      ]
+    },
+    {
+      "id": "monoprix",
+      "buyer": "Monoprix",
+      "country": "France",
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Monoprix"
+      ]
+    },
+    {
+      "id": "adidas",
+      "buyer": "Adidas",
+      "country": "Germany",
+      "city": "Herzogenaurach",
+      "lat": 49.57,
+      "lng": 10.88,
+      "color": "#00ffff",
+      "group": "adidas",
+      "categories": "sportswear",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.adidas-group.com/en/about/headquarters",
+          "title": "Headquarters",
+          "publisher": "adidas"
+        }
+      ],
+      "aliases": [
+        "Adidas"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "aldi",
+      "buyer": "Aldi",
+      "country": "Germany",
+      "city": "Essen",
+      "lat": 51.4556,
+      "lng": 7.0116,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Aldi"
+      ]
+    },
+    {
+      "id": "bonprix",
+      "buyer": "Bonprix",
+      "country": "Germany",
+      "city": "Hamburg",
+      "lat": 53.5511,
+      "lng": 9.9937,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Bonprix"
+      ]
+    },
+    {
+      "id": "ca",
+      "buyer": "C&A",
+      "country": "Germany",
+      "city": "Dusseldorf",
+      "lat": 51.2277,
+      "lng": 6.7735,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "C&A"
+      ]
+    },
+    {
+      "id": "ernstingsfamily",
+      "buyer": "Ernsting's Family",
+      "country": "Germany",
+      "city": "",
+      "lat": 51.2277,
+      "lng": 6.7735,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Ernsting's Family"
+      ]
+    },
+    {
+      "id": "kaufland",
+      "buyer": "Kaufland",
+      "country": "Germany",
+      "city": "Neckarsulm",
+      "lat": 49.1895,
+      "lng": 9.2253,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Kaufland"
+      ]
+    },
+    {
+      "id": "lidl",
+      "buyer": "Lidl",
+      "country": "Germany",
+      "city": "Neckarsulm",
+      "lat": 49.1895,
+      "lng": 9.2253,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Lidl"
+      ]
+    },
+    {
+      "id": "newyorker",
+      "buyer": "New Yorker",
+      "country": "Germany",
+      "city": "Braunschweig",
+      "lat": 52.2689,
+      "lng": 10.5268,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "New Yorker"
+      ]
+    },
+    {
+      "id": "nkd",
+      "buyer": "NKD",
+      "country": "Germany",
+      "city": "",
+      "lat": 51.2277,
+      "lng": 6.7735,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "NKD"
+      ]
+    },
+    {
+      "id": "ottogroup",
+      "buyer": "Otto Group",
+      "country": "Germany",
+      "city": "Hamburg",
+      "lat": 53.5511,
+      "lng": 9.9937,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Otto Group"
+      ]
+    },
+    {
+      "id": "puma",
+      "buyer": "Puma",
+      "country": "Germany",
+      "city": "Herzogenaurach",
+      "lat": 49.57,
+      "lng": 10.88,
+      "color": "#00ffff",
+      "group": "PUMA",
+      "categories": "sportswear",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://about.puma.com/en/centraleurope",
+          "title": "Central Europe",
+          "publisher": "PUMA"
+        }
+      ],
+      "aliases": [
+        "Puma"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "tchibo",
+      "buyer": "Tchibo",
+      "country": "Germany",
+      "city": "",
+      "lat": 51.2277,
+      "lng": 6.7735,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Tchibo"
+      ]
+    },
+    {
+      "id": "ajio",
+      "buyer": "AJIO",
+      "country": "India",
+      "city": "Mumbai",
+      "lat": 19.08,
+      "lng": 72.88,
+      "color": "#00ffff",
+      "group": "Reliance Retail",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://relianceretail.com/our-business.html",
+          "title": "Our businesses",
+          "publisher": "Reliance Retail"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Marketplace"
+    },
+    {
+      "id": "allensolly",
+      "buyer": "Allen Solly",
+      "country": "India",
+      "city": "Bengaluru",
+      "lat": 12.97,
+      "lng": 77.59,
+      "color": "#00ffff",
+      "group": "Aditya Birla Lifestyle Brands",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.adityabirla.com/businesses/companies/aditya-birla-lifestyle-brands-limited/",
+          "title": "Aditya Birla Lifestyle Brands Limited",
+          "publisher": "Aditya Birla Lifestyle Brands"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "louisphilippe",
+      "buyer": "Louis Philippe",
+      "country": "India",
+      "city": "Bengaluru",
+      "lat": 12.97,
+      "lng": 77.59,
+      "color": "#00ffff",
+      "group": "Aditya Birla Lifestyle Brands",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.adityabirla.com/businesses/companies/aditya-birla-lifestyle-brands-limited/",
+          "title": "Aditya Birla Lifestyle Brands Limited",
+          "publisher": "Aditya Birla Lifestyle Brands"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "peterengland",
+      "buyer": "Peter England",
+      "country": "India",
+      "city": "Bengaluru",
+      "lat": 12.97,
+      "lng": 77.59,
+      "color": "#00ffff",
+      "group": "Aditya Birla Lifestyle Brands",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.adityabirla.com/businesses/companies/aditya-birla-lifestyle-brands-limited/",
+          "title": "Aditya Birla Lifestyle Brands Limited",
+          "publisher": "Aditya Birla Lifestyle Brands"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "relianceretail",
+      "buyer": "Reliance Retail",
+      "country": "India",
+      "city": "Mumbai",
+      "lat": 19.08,
+      "lng": 72.88,
+      "color": "#00ffff",
+      "group": "Reliance Retail",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://relianceretail.com/our-business.html",
+          "title": "Our businesses",
+          "publisher": "Reliance Retail"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "samoh",
+      "buyer": "Samoh",
+      "country": "India",
+      "city": "Mumbai",
+      "lat": 19.08,
+      "lng": 72.88,
+      "color": "#00ffff",
+      "group": "Trent",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://trentlimited.com/pages/fashion-lifestyle",
+          "title": "Fashion and lifestyle",
+          "publisher": "Trent"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "trends",
+      "buyer": "Trends",
+      "country": "India",
+      "city": "Mumbai",
+      "lat": 19.08,
+      "lng": 72.88,
+      "color": "#00ffff",
+      "group": "Reliance Retail",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://relianceretail.com/our-business.html",
+          "title": "Our businesses",
+          "publisher": "Reliance Retail"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "vanheusenindia",
+      "buyer": "Van Heusen (India)",
+      "country": "India",
+      "city": "Bengaluru",
+      "lat": 12.97,
+      "lng": 77.59,
+      "color": "#00ffff",
+      "group": "Aditya Birla Lifestyle Brands",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.adityabirla.com/businesses/companies/aditya-birla-lifestyle-brands-limited/",
+          "title": "Aditya Birla Lifestyle Brands Limited",
+          "publisher": "Aditya Birla Lifestyle Brands"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "westside",
+      "buyer": "Westside",
+      "country": "India",
+      "city": "Mumbai",
+      "lat": 19.08,
+      "lng": 72.88,
+      "color": "#00ffff",
+      "group": "Trent",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://trentlimited.com/pages/fashion-lifestyle",
+          "title": "Fashion and lifestyle",
+          "publisher": "Trent"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "zudio",
+      "buyer": "Zudio",
+      "country": "India",
+      "city": "Mumbai",
+      "lat": 19.08,
+      "lng": 72.88,
+      "color": "#00ffff",
+      "group": "Trent",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://trentlimited.com/pages/fashion-lifestyle",
+          "title": "Fashion and lifestyle",
+          "publisher": "Trent"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "mitraadiperkasamap",
+      "buyer": "Mitra Adiperkasa (MAP)",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "lat": -6.21,
+      "lng": 106.85,
+      "color": "#00ffff",
+      "group": "Mitra Adiperkasa",
+      "categories": "apparel retail operator",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.map.co.id/id/brands/",
+          "title": "Brands",
+          "publisher": "Mitra Adiperkasa"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "primark",
+      "buyer": "Primark",
+      "country": "Ireland",
+      "city": "Dublin",
+      "lat": 53.35,
+      "lng": -6.26,
+      "color": "#00ffff",
+      "group": "Primark",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://careers.primark.com/en/dublin-head-office",
+          "title": "Dublin head office",
+          "publisher": "Primark"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "benetton",
+      "buyer": "Benetton",
+      "country": "Italy",
+      "city": "Treviso",
+      "lat": 45.6669,
+      "lng": 12.243,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Benetton"
+      ]
+    },
+    {
+      "id": "ovs",
+      "buyer": "OVS",
+      "country": "Italy",
+      "city": "Venice",
+      "lat": 45.4408,
+      "lng": 12.3155,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "OVS"
+      ]
+    },
+    {
+      "id": "avail",
+      "buyer": "Avail",
+      "country": "Japan",
+      "city": "Saitama",
+      "lat": 35.86,
+      "lng": 139.65,
+      "color": "#00ffff",
+      "group": "Shimamura",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.shimamura.gr.jp/en/company/profile/",
+          "title": "Company profile",
+          "publisher": "Shimamura"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "birthday",
+      "buyer": "Birthday",
+      "country": "Japan",
+      "city": "Saitama",
+      "lat": 35.86,
+      "lng": 139.65,
+      "color": "#00ffff",
+      "group": "Shimamura",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.shimamura.gr.jp/en/company/profile/",
+          "title": "Company profile",
+          "publisher": "Shimamura"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "gu",
+      "buyer": "GU",
+      "country": "Japan",
+      "city": "Tokyo",
+      "lat": 35.68,
+      "lng": 139.69,
+      "color": "#00ffff",
+      "group": "Fast Retailing",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.fastretailing.com/employment/en/about/brands.html",
+          "title": "Our brands",
+          "publisher": "Fast Retailing"
+        }
+      ],
+      "aliases": [
+        "GU"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "muji",
+      "buyer": "MUJI",
+      "country": "Japan",
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "MUJI"
+      ]
+    },
+    {
+      "id": "nitori",
+      "buyer": "Nitori",
+      "country": "Japan",
+      "city": "Sapporo",
+      "lat": 43.06,
+      "lng": 141.35,
+      "color": "#00ffff",
+      "group": "Nitori",
+      "categories": "home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.nitori.co.jp/division/homefurnishing/index.html",
+          "title": "Home furnishing business",
+          "publisher": "Nitori"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "plst",
+      "buyer": "PLST",
+      "country": "Japan",
+      "city": "Tokyo",
+      "lat": 35.68,
+      "lng": 139.69,
+      "color": "#00ffff",
+      "group": "Fast Retailing",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.fastretailing.com/employment/en/about/brands.html",
+          "title": "Our brands",
+          "publisher": "Fast Retailing"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "shimamura",
+      "buyer": "Shimamura",
+      "country": "Japan",
+      "city": "Saitama",
+      "lat": 35.86,
+      "lng": 139.65,
+      "color": "#00ffff",
+      "group": "Shimamura",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.shimamura.gr.jp/en/company/profile/",
+          "title": "Company profile",
+          "publisher": "Shimamura"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "uniqlo",
+      "buyer": "Uniqlo",
+      "country": "Japan",
+      "city": "Tokyo",
+      "lat": 35.68,
+      "lng": 139.69,
+      "color": "#00ffff",
+      "group": "Fast Retailing",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.fastretailing.com/employment/en/about/brands.html",
+          "title": "Our brands",
+          "publisher": "Fast Retailing"
+        }
+      ],
+      "aliases": [
+        "Uniqlo"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "brandsoutlet",
+      "buyer": "Brands Outlet",
+      "country": "Malaysia",
+      "city": "Shah Alam",
+      "lat": 3.07,
+      "lng": 101.52,
+      "color": "#00ffff",
+      "group": "Padini Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corporate.padini.com/about-us/who-we-are/",
+          "title": "Who we are",
+          "publisher": "Padini Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "miki",
+      "buyer": "Miki",
+      "country": "Malaysia",
+      "city": "Shah Alam",
+      "lat": 3.07,
+      "lng": 101.52,
+      "color": "#00ffff",
+      "group": "Padini Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corporate.padini.com/about-us/who-we-are/",
+          "title": "Who we are",
+          "publisher": "Padini Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "pco",
+      "buyer": "P&Co",
+      "country": "Malaysia",
+      "city": "Shah Alam",
+      "lat": 3.07,
+      "lng": 101.52,
+      "color": "#00ffff",
+      "group": "Padini Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corporate.padini.com/about-us/who-we-are/",
+          "title": "Who we are",
+          "publisher": "Padini Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "padini",
+      "buyer": "Padini",
+      "country": "Malaysia",
+      "city": "Shah Alam",
+      "lat": 3.07,
+      "lng": 101.52,
+      "color": "#00ffff",
+      "group": "Padini Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corporate.padini.com/about-us/who-we-are/",
+          "title": "Who we are",
+          "publisher": "Padini Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "padiniauthentics",
+      "buyer": "Padini Authentics",
+      "country": "Malaysia",
+      "city": "Shah Alam",
+      "lat": 3.07,
+      "lng": 101.52,
+      "color": "#00ffff",
+      "group": "Padini Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corporate.padini.com/about-us/who-we-are/",
+          "title": "Who we are",
+          "publisher": "Padini Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "pdi",
+      "buyer": "PDI",
+      "country": "Malaysia",
+      "city": "Shah Alam",
+      "lat": 3.07,
+      "lng": 101.52,
+      "color": "#00ffff",
+      "group": "Padini Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corporate.padini.com/about-us/who-we-are/",
+          "title": "Who we are",
+          "publisher": "Padini Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "seed",
+      "buyer": "SEED",
+      "country": "Malaysia",
+      "city": "Shah Alam",
+      "lat": 3.07,
+      "lng": 101.52,
+      "color": "#00ffff",
+      "group": "Padini Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corporate.padini.com/about-us/who-we-are/",
+          "title": "Who we are",
+          "publisher": "Padini Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "camexico",
+      "buyer": "C&A Mexico",
+      "country": "Mexico",
+      "city": "",
+      "lat": 24.8091,
+      "lng": -107.394,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "C&A Mexico"
+      ]
+    },
+    {
+      "id": "chedraui",
+      "buyer": "Chedraui",
+      "country": "Mexico",
+      "city": "",
+      "lat": 24.8091,
+      "lng": -107.394,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Chedraui"
+      ]
+    },
+    {
+      "id": "coppel",
+      "buyer": "Coppel",
+      "country": "Mexico",
+      "city": "Culiacan",
+      "lat": 24.8091,
+      "lng": -107.394,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Coppel"
+      ]
+    },
+    {
+      "id": "liverpool",
+      "buyer": "Liverpool",
+      "country": "Mexico",
+      "city": "Mexico City",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "palaciodehierro",
+      "buyer": "Palacio de Hierro",
+      "country": "Mexico",
+      "city": "",
+      "lat": 24.8091,
+      "lng": -107.394,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Palacio de Hierro"
+      ]
+    },
+    {
+      "id": "searsmexico",
+      "buyer": "Sears Mexico",
+      "country": "Mexico",
+      "city": "",
+      "lat": 24.8091,
+      "lng": -107.394,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Sears Mexico"
+      ]
+    },
+    {
+      "id": "soriana",
+      "buyer": "Soriana",
+      "country": "Mexico",
+      "city": "",
+      "lat": 24.8091,
+      "lng": -107.394,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Soriana"
+      ]
+    },
+    {
+      "id": "suburbia",
+      "buyer": "Suburbia",
+      "country": "Mexico",
+      "city": "",
+      "lat": 24.8091,
+      "lng": -107.394,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Suburbia"
+      ]
+    },
+    {
+      "id": "walmartmexico",
+      "buyer": "Walmart Mexico",
+      "country": "Mexico",
+      "city": "",
+      "lat": 24.8091,
+      "lng": -107.394,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Walmart Mexico"
+      ]
+    },
+    {
+      "id": "hema",
+      "buyer": "HEMA",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "lat": 52.37,
+      "lng": 4.9,
+      "categories": "apparel, basics and home textiles",
+      "group": "HEMA",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.hema.nl/design/over-ons",
+          "title": "About HEMA",
+          "publisher": "HEMA"
+        },
+        {
+          "url": "https://corporate.hema.com/en/about-us/",
+          "title": "Supporting company source",
+          "publisher": "HEMA"
+        }
+      ]
+    },
+    {
+      "id": "terstal",
+      "buyer": "terStal",
+      "country": "Netherlands",
+      "city": "Almelo",
+      "lat": 52.36,
+      "lng": 6.66,
+      "categories": "family apparel",
+      "group": "terStal",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.terstal.nl/over-ons",
+          "title": "About terStal",
+          "publisher": "terStal"
+        }
+      ]
+    },
+    {
+      "id": "wefashion",
+      "buyer": "WE Fashion",
+      "country": "Netherlands",
+      "city": "Utrecht",
+      "lat": 52.09,
+      "lng": 5.12,
+      "categories": "menswear, womenswear and kidswear",
+      "group": "WE Europe B.V.",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.wefashion.com/nl_NL/bedrijfsgegevens/",
+          "title": "Company details",
+          "publisher": "WE Europe B.V."
+        },
+        {
+          "url": "https://www.wefashion.com/nl_NL/stores",
+          "title": "Supporting company source",
+          "publisher": "WE Europe B.V."
+        }
+      ]
+    },
+    {
+      "id": "zeeman",
+      "buyer": "Zeeman",
+      "country": "Netherlands",
+      "city": "Alphen aan den Rijn",
+      "lat": 52.13,
+      "lng": 4.66,
+      "categories": "apparel, underwear and home textiles",
+      "group": "Zeeman",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [
+        "Zeeman textielSupers"
+      ],
+      "sources": [
+        {
+          "url": "https://www.zeeman.com/nl-nl/juridisch/algemene-voorwaarden",
+          "title": "Terms and company identity",
+          "publisher": "Zeeman"
+        },
+        {
+          "url": "https://www.zeeman.com/nl-nl/nieuws/zeeman-maakt-productielocaties-openbaar-volgende-stap-in-transparantie",
+          "title": "Supporting company source",
+          "publisher": "Zeeman"
+        }
+      ]
+    },
+    {
+      "id": "glassons",
+      "buyer": "Glassons",
+      "country": "New Zealand",
+      "city": "Auckland",
+      "lat": -36.85,
+      "lng": 174.76,
+      "color": "#00ffff",
+      "group": "Hallenstein Glasson Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.hallensteinglasson.co.nz/content/reports/SlaveryStatement-2023.pdf",
+          "title": "Modern Slavery Statement 2023",
+          "publisher": "Hallenstein Glasson Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "hallensteins",
+      "buyer": "Hallensteins",
+      "country": "New Zealand",
+      "city": "Auckland",
+      "lat": -36.85,
+      "lng": 174.76,
+      "color": "#00ffff",
+      "group": "Hallenstein Glasson Holdings",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.hallensteinglasson.co.nz/content/reports/SlaveryStatement-2023.pdf",
+          "title": "Modern Slavery Statement 2023",
+          "publisher": "Hallenstein Glasson Holdings"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "thewarehousegroup",
+      "buyer": "The Warehouse Group",
+      "country": "New Zealand",
+      "city": "Auckland",
+      "lat": -36.8485,
+      "lng": 174.7633,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "The Warehouse Group (NZ)",
+        "The Warehouse Group"
+      ]
+    },
+    {
+      "id": "cropp",
+      "buyer": "Cropp",
+      "country": "Poland",
+      "city": "Gdańsk",
+      "lat": 54.35,
+      "lng": 18.65,
+      "color": "#00ffff",
+      "group": "LPP",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.lpp.com/en/brands/",
+          "title": "LPP brands",
+          "publisher": "LPP"
+        }
+      ],
+      "aliases": [
+        "Cropp"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "house",
+      "buyer": "House",
+      "country": "Poland",
+      "city": "Gdańsk",
+      "lat": 54.35,
+      "lng": 18.65,
+      "color": "#00ffff",
+      "group": "LPP",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.lpp.com/en/brands/",
+          "title": "LPP brands",
+          "publisher": "LPP"
+        }
+      ],
+      "aliases": [
+        "House"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "mohito",
+      "buyer": "Mohito",
+      "country": "Poland",
+      "city": "Gdańsk",
+      "lat": 54.35,
+      "lng": 18.65,
+      "color": "#00ffff",
+      "group": "LPP",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.lpp.com/en/brands/",
+          "title": "LPP brands",
+          "publisher": "LPP"
+        }
+      ],
+      "aliases": [
+        "Mohito"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "pepco",
+      "buyer": "Pepco",
+      "country": "Poland",
+      "city": "",
+      "lat": 54.352,
+      "lng": 18.6466,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Pepco"
+      ]
+    },
+    {
+      "id": "reserved",
+      "buyer": "Reserved",
+      "country": "Poland",
+      "city": "Gdańsk",
+      "lat": 54.35,
+      "lng": 18.65,
+      "color": "#00ffff",
+      "group": "LPP",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.lpp.com/en/brands/",
+          "title": "LPP brands",
+          "publisher": "LPP"
+        }
+      ],
+      "aliases": [
+        "LPP (Reserved)",
+        "Reserved"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "sinsay",
+      "buyer": "Sinsay",
+      "country": "Poland",
+      "city": "Gdańsk",
+      "lat": 54.35,
+      "lng": 18.65,
+      "color": "#00ffff",
+      "group": "LPP",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.lpp.com/en/brands/",
+          "title": "LPP brands",
+          "publisher": "LPP"
+        }
+      ],
+      "aliases": [
+        "Sinsay"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "lanidor",
+      "buyer": "Lanidor",
+      "country": "Portugal",
+      "city": "",
+      "lat": 39.5,
+      "lng": -8,
+      "categories": "apparel including womenswear and kidswear",
+      "group": null,
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Country anchor — office location not verified",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.lanidor.com/",
+          "title": "Official apparel collections",
+          "publisher": "Lanidor"
+        },
+        {
+          "url": "https://www.lanidor.com/html/info/new/ajuda_16_1_uk.html",
+          "title": "Supporting company source",
+          "publisher": "Lanidor"
+        }
+      ]
+    },
+    {
+      "id": "mo",
+      "buyer": "MO",
+      "country": "Portugal",
+      "city": "",
+      "lat": 39.5,
+      "lng": -8,
+      "categories": "family apparel",
+      "group": null,
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Country anchor — office location not verified",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://mo-online.com/pt/",
+          "title": "Official MO store",
+          "publisher": "MO"
+        },
+        {
+          "url": "https://news.cision.com/pt/sonae/r/sonae-anuncia-acordo-para-a-venda-das-marcas-de-moda-mo-e-zippy-a-atual-equipa-de-gestao,c638838778150000000",
+          "title": "Supporting company source",
+          "publisher": "MO"
+        }
+      ]
+    },
+    {
+      "id": "sacoorbrothers",
+      "buyer": "Sacoor Brothers",
+      "country": "Portugal",
+      "city": "Lisbon",
+      "lat": 38.72,
+      "lng": -9.14,
+      "categories": "menswear, womenswear and kidswear",
+      "group": "Sacoor Brothers",
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://pt.sacoorbrothers.com/pages/a-marca-sacoor",
+          "title": "Our brand and history",
+          "publisher": "Sacoor Brothers"
+        }
+      ]
+    },
+    {
+      "id": "salsajeans",
+      "buyer": "Salsa Jeans",
+      "country": "Portugal",
+      "city": "Vila Nova de Famalicão",
+      "lat": 41.41,
+      "lng": -8.52,
+      "categories": "denim and apparel",
+      "group": null,
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Illustrative city / group anchor; not a verified buying-office address",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://www.salsajeans.com/en/people-salsa-jeans_348.html",
+          "title": "People and supply-chain partners",
+          "publisher": "Salsa Jeans"
+        },
+        {
+          "url": "https://www.salsajeans.com/pt/marca/quem-somos_311.html",
+          "title": "Supporting company source",
+          "publisher": "Salsa Jeans"
+        }
+      ]
+    },
+    {
+      "id": "zippy",
+      "buyer": "Zippy",
+      "country": "Portugal",
+      "city": "",
+      "lat": 39.5,
+      "lng": -8,
+      "categories": "babywear and kidswear",
+      "group": null,
+      "color": "#00ffff",
+      "recordType": "Brand / retail operation",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-13",
+      "directoryBatch": "nl-be-pt-2026-09-13",
+      "locationBasis": "Country anchor — office location not verified",
+      "aliases": [],
+      "sources": [
+        {
+          "url": "https://zippyonline.com/pt",
+          "title": "Official Zippy store",
+          "publisher": "Zippy"
+        }
+      ]
+    },
+    {
+      "id": "jolidon",
+      "buyer": "Jolidon",
+      "country": "Romania",
+      "city": "Bucharest",
+      "lat": 44.4268,
+      "lng": 26.1025,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Jolidon"
+      ]
+    },
+    {
+      "id": "baon",
+      "buyer": "Baon",
+      "country": "Russia",
+      "city": "",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Baon"
+      ]
+    },
+    {
+      "id": "detskymir",
+      "buyer": "Detsky Mir",
+      "country": "Russia",
+      "city": "",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Detsky Mir"
+      ]
+    },
+    {
+      "id": "familia",
+      "buyer": "Familia",
+      "country": "Russia",
+      "city": "",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Familia",
+        "Familia"
+      ]
+    },
+    {
+      "id": "finnflare",
+      "buyer": "Finn Flare",
+      "country": "Russia",
+      "city": "",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Finn Flare"
+      ]
+    },
+    {
+      "id": "funday",
+      "buyer": "Funday",
+      "country": "Russia",
+      "city": "Moscow",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Funday"
+      ]
+    },
+    {
+      "id": "gloriajeans",
+      "buyer": "Gloria Jeans",
+      "country": "Russia",
+      "city": "Moscow",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Gloria Jeans"
+      ]
+    },
+    {
+      "id": "lamoda",
+      "buyer": "Lamoda",
+      "country": "Russia",
+      "city": "Moscow",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Lamoda"
+      ]
+    },
+    {
+      "id": "modis",
+      "buyer": "Modis",
+      "country": "Russia",
+      "city": "",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Modis"
+      ]
+    },
+    {
+      "id": "ostin",
+      "buyer": "O'STIN",
+      "country": "Russia",
+      "city": "Moscow",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "O'STIN"
+      ]
+    },
+    {
+      "id": "sela",
+      "buyer": "Sela",
+      "country": "Russia",
+      "city": "Moscow",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Sela"
+      ]
+    },
+    {
+      "id": "snowqueen",
+      "buyer": "Snow Queen",
+      "country": "Russia",
+      "city": "",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Snow Queen"
+      ]
+    },
+    {
+      "id": "sportmaster",
+      "buyer": "Sportmaster",
+      "country": "Russia",
+      "city": "Moscow",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Sportmaster"
+      ]
+    },
+    {
+      "id": "wildberries",
+      "buyer": "Wildberries",
+      "country": "Russia",
+      "city": "Moscow",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Wildberries"
+      ]
+    },
+    {
+      "id": "zolla",
+      "buyer": "Zolla",
+      "country": "Russia",
+      "city": "",
+      "lat": 55.7558,
+      "lng": 37.6173,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Zolla"
+      ]
+    },
+    {
+      "id": "ackermans",
+      "buyer": "Ackermans",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "lat": -33.9249,
+      "lng": 18.4241,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Ackermans"
+      ]
+    },
+    {
+      "id": "identity",
+      "buyer": "Identity",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "lat": -33.92,
+      "lng": 18.42,
+      "color": "#00ffff",
+      "group": "Truworths International",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.truworths.co.za/occ-public/html/group-at-a-glance.html",
+          "title": "Group at a glance",
+          "publisher": "Truworths International"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "mrpricegroup",
+      "buyer": "Mr Price Group",
+      "country": "South Africa",
+      "city": "Durban",
+      "lat": -29.86,
+      "lng": 31.02,
+      "color": "#00ffff",
+      "group": "Mr Price Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://mrpricegroup.com/",
+          "title": "Mr Price Group",
+          "publisher": "Mr Price Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "pepstores",
+      "buyer": "Pep Stores",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "lat": -33.9249,
+      "lng": 18.4241,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Pep Stores"
+      ]
+    },
+    {
+      "id": "truworths",
+      "buyer": "Truworths",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "lat": -33.92,
+      "lng": 18.42,
+      "color": "#00ffff",
+      "group": "Truworths International",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.truworths.co.za/occ-public/html/group-at-a-glance.html",
+          "title": "Group at a glance",
+          "publisher": "Truworths International"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "woolworthssouthafrica",
+      "buyer": "Woolworths South Africa",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "lat": -33.9249,
+      "lng": 18.4241,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Woolworths South Africa"
+      ]
+    },
+    {
+      "id": "mixxo",
+      "buyer": "MIXXO",
+      "country": "South Korea",
+      "city": "Seoul",
+      "lat": 37.57,
+      "lng": 126.98,
+      "color": "#00ffff",
+      "group": "E-Land World",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.eland.com/%EC%9D%B4%EB%9E%9C%EB%93%9C%EC%9B%94%EB%93%9C_ESG%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%98%81%EB%AC%B8.pdf",
+          "title": "E-Land World ESG report",
+          "publisher": "E-Land World"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "spao",
+      "buyer": "SPAO",
+      "country": "South Korea",
+      "city": "Seoul",
+      "lat": 37.57,
+      "lng": 126.98,
+      "color": "#00ffff",
+      "group": "E-Land World",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.eland.com/%EC%9D%B4%EB%9E%9C%EB%93%9C%EC%9B%94%EB%93%9C_ESG%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%98%81%EB%AC%B8.pdf",
+          "title": "E-Land World ESG report",
+          "publisher": "E-Land World"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "whoau",
+      "buyer": "WHO.A.U",
+      "country": "South Korea",
+      "city": "Seoul",
+      "lat": 37.57,
+      "lng": 126.98,
+      "color": "#00ffff",
+      "group": "E-Land World",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.eland.com/%EC%9D%B4%EB%9E%9C%EB%93%9C%EC%9B%94%EB%93%9C_ESG%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%98%81%EB%AC%B8.pdf",
+          "title": "E-Land World ESG report",
+          "publisher": "E-Land World"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "bershka",
+      "buyer": "Bershka",
+      "country": "Spain",
+      "city": "",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Bershka"
+      ]
+    },
+    {
+      "id": "cortefiel",
+      "buyer": "Cortefiel",
+      "country": "Spain",
+      "city": "",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Cortefiel"
+      ]
+    },
+    {
+      "id": "desigual",
+      "buyer": "Desigual",
+      "country": "Spain",
+      "city": "",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Desigual"
+      ]
+    },
+    {
+      "id": "elcorteingles",
+      "buyer": "El Corte Inglés",
+      "country": "Spain",
+      "city": "Madrid",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "El Corte Inglés",
+        "El Corte Ingles"
+      ]
+    },
+    {
+      "id": "mango",
+      "buyer": "Mango",
+      "country": "Spain",
+      "city": "Barcelona",
+      "lat": 41.3851,
+      "lng": 2.1734,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Mango"
+      ]
+    },
+    {
+      "id": "massimodutti",
+      "buyer": "Massimo Dutti",
+      "country": "Spain",
+      "city": "",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Massimo Dutti"
+      ]
+    },
+    {
+      "id": "oysho",
+      "buyer": "Oysho",
+      "country": "Spain",
+      "city": "",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Oysho"
+      ]
+    },
+    {
+      "id": "pullbear",
+      "buyer": "Pull&Bear",
+      "country": "Spain",
+      "city": "",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Pull&Bear"
+      ]
+    },
+    {
+      "id": "springfield",
+      "buyer": "Springfield",
+      "country": "Spain",
+      "city": "",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Springfield"
+      ]
+    },
+    {
+      "id": "stradivarius",
+      "buyer": "Stradivarius",
+      "country": "Spain",
+      "city": "",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Stradivarius"
+      ]
+    },
+    {
+      "id": "zara",
+      "buyer": "Zara",
+      "country": "Spain",
+      "city": "A Coruna",
+      "lat": 43.3623,
+      "lng": -8.4115,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Zara"
+      ]
+    },
+    {
+      "id": "otherstories",
+      "buyer": "& Other Stories",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.07,
+      "color": "#00ffff",
+      "group": "H&M Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://hmgroup.com/brands/",
+          "title": "Our brands",
+          "publisher": "H&M Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "arket",
+      "buyer": "ARKET",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.07,
+      "color": "#00ffff",
+      "group": "H&M Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://hmgroup.com/brands/",
+          "title": "Our brands",
+          "publisher": "H&M Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "cos",
+      "buyer": "COS",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.07,
+      "color": "#00ffff",
+      "group": "H&M Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://hmgroup.com/brands/",
+          "title": "Our brands",
+          "publisher": "H&M Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "hm",
+      "buyer": "H&M",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.07,
+      "color": "#00ffff",
+      "group": "H&M Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://hmgroup.com/brands/",
+          "title": "Our brands",
+          "publisher": "H&M Group"
+        }
+      ],
+      "aliases": [
+        "H&M"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "monki",
+      "buyer": "Monki",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.07,
+      "color": "#00ffff",
+      "group": "H&M Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://hmgroup.com/brands/",
+          "title": "Our brands",
+          "publisher": "H&M Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "weekday",
+      "buyer": "Weekday",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.07,
+      "color": "#00ffff",
+      "group": "H&M Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://hmgroup.com/brands/",
+          "title": "Our brands",
+          "publisher": "H&M Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "intersport",
+      "buyer": "Intersport",
+      "country": "Switzerland",
+      "city": "",
+      "lat": 46.95,
+      "lng": 7.45,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Intersport"
+      ]
+    },
+    {
+      "id": "centraldepartmentstore",
+      "buyer": "Central Department Store",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "lat": 13.76,
+      "lng": 100.5,
+      "color": "#00ffff",
+      "group": "Central Retail",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.centralretail.com/en/what-we-do/our-businesses",
+          "title": "Our businesses",
+          "publisher": "Central Retail"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "centralretail",
+      "buyer": "Central Retail",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "lat": 13.76,
+      "lng": 100.5,
+      "color": "#00ffff",
+      "group": "Central Retail",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.centralretail.com/en/what-we-do/our-businesses",
+          "title": "Our businesses",
+          "publisher": "Central Retail"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "robinson",
+      "buyer": "Robinson",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "lat": 13.76,
+      "lng": 100.5,
+      "color": "#00ffff",
+      "group": "Central Retail",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.centralretail.com/en/what-we-do/our-businesses",
+          "title": "Our businesses",
+          "publisher": "Central Retail"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "defacto",
+      "buyer": "DeFacto",
+      "country": "Turkey",
+      "city": "Istanbul",
+      "lat": 41.01,
+      "lng": 28.98,
+      "color": "#00ffff",
+      "group": "DeFacto",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://kurumsal.defacto.com/en/hakkimizda/",
+          "title": "About us",
+          "publisher": "DeFacto"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "koton",
+      "buyer": "Koton",
+      "country": "Turkey",
+      "city": "Istanbul",
+      "lat": 41.01,
+      "lng": 28.98,
+      "color": "#00ffff",
+      "group": "Koton",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://kurumsal.koton.com.tr/en/about-us/general-information/",
+          "title": "General information",
+          "publisher": "Koton"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "lcwaikiki",
+      "buyer": "LC Waikiki",
+      "country": "Turkey",
+      "city": "Istanbul",
+      "lat": 41.01,
+      "lng": 28.98,
+      "color": "#00ffff",
+      "group": "LC Waikiki",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://corporate.lcwaikiki.com/en-US/about-us",
+          "title": "About us",
+          "publisher": "LC Waikiki"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "debenhams",
+      "buyer": "Debenhams",
+      "country": "UK",
+      "city": "",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Debenhams"
+      ]
+    },
+    {
+      "id": "dunelm",
+      "buyer": "Dunelm",
+      "country": "UK",
+      "city": "Leicester",
+      "lat": 52.64,
+      "lng": -1.14,
+      "color": "#00ffff",
+      "group": "Dunelm",
+      "categories": "home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.dunelm.com/info/about-us",
+          "title": "About us",
+          "publisher": "Dunelm"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "georgeatasda",
+      "buyer": "George at ASDA",
+      "country": "UK",
+      "city": "",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "George at ASDA"
+      ]
+    },
+    {
+      "id": "jdwilliams",
+      "buyer": "JD Williams",
+      "country": "UK",
+      "city": "",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "JD Williams"
+      ]
+    },
+    {
+      "id": "johnlewis",
+      "buyer": "John Lewis",
+      "country": "UK",
+      "city": "",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "John Lewis"
+      ]
+    },
+    {
+      "id": "marksspencer",
+      "buyer": "Marks & Spencer",
+      "country": "UK",
+      "city": "London",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Marks & Spencer (M&S)",
+        "Marks & Spencer"
+      ]
+    },
+    {
+      "id": "matalan",
+      "buyer": "Matalan",
+      "country": "UK",
+      "city": "Liverpool",
+      "lat": 53.4084,
+      "lng": -2.9916,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Matalan"
+      ]
+    },
+    {
+      "id": "morrisonsnutmeg",
+      "buyer": "Morrisons Nutmeg",
+      "country": "UK",
+      "city": "",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Morrisons Nutmeg"
+      ]
+    },
+    {
+      "id": "next",
+      "buyer": "Next",
+      "country": "UK",
+      "city": "Leicester",
+      "lat": 52.6369,
+      "lng": -1.1398,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Next"
+      ]
+    },
+    {
+      "id": "peacocks",
+      "buyer": "Peacocks",
+      "country": "UK",
+      "city": "",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Peacocks"
+      ]
+    },
+    {
+      "id": "riverisland",
+      "buyer": "River Island",
+      "country": "UK",
+      "city": "London",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "River Island"
+      ]
+    },
+    {
+      "id": "sainsburystuclothing",
+      "buyer": "Sainsbury's (Tu Clothing)",
+      "country": "UK",
+      "city": "",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Sainsbury's (Tu Clothing)"
+      ]
+    },
+    {
+      "id": "tesco",
+      "buyer": "Tesco",
+      "country": "UK",
+      "city": "Welwyn Garden City",
+      "lat": 51.8031,
+      "lng": -0.2069,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Tesco"
+      ]
+    },
+    {
+      "id": "babyshop",
+      "buyer": "Babyshop",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "lat": 25.2,
+      "lng": 55.27,
+      "color": "#00ffff",
+      "group": "Landmark Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.landmarkgroup.com/themes/lmg/images/media/Media-Sustainable-EN.pdf",
+          "title": "Landmark Group media release",
+          "publisher": "Landmark Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "centrepoint",
+      "buyer": "Centrepoint",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "lat": 25.2,
+      "lng": 55.27,
+      "color": "#00ffff",
+      "group": "Landmark Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.landmarkgroup.com/themes/lmg/images/media/Media-Sustainable-EN.pdf",
+          "title": "Landmark Group media release",
+          "publisher": "Landmark Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "homebox",
+      "buyer": "Home Box",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "lat": 25.2,
+      "lng": 55.27,
+      "color": "#00ffff",
+      "group": "Landmark Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.landmarkgroup.com/themes/lmg/images/media/Media-Sustainable-EN.pdf",
+          "title": "Landmark Group media release",
+          "publisher": "Landmark Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "homecentre",
+      "buyer": "Home Centre",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "lat": 25.2,
+      "lng": 55.27,
+      "color": "#00ffff",
+      "group": "Landmark Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.landmarkgroup.com/themes/lmg/images/media/Media-Sustainable-EN.pdf",
+          "title": "Landmark Group media release",
+          "publisher": "Landmark Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "landmarkgroup",
+      "buyer": "Landmark Group",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "lat": 25.2,
+      "lng": 55.27,
+      "color": "#00ffff",
+      "group": "Landmark Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.landmarkgroup.com/themes/lmg/images/media/Media-Sustainable-EN.pdf",
+          "title": "Landmark Group media release",
+          "publisher": "Landmark Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "maxfashion",
+      "buyer": "Max Fashion",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "lat": 25.2,
+      "lng": 55.27,
+      "color": "#00ffff",
+      "group": "Landmark Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.landmarkgroup.com/themes/lmg/images/media/Media-Sustainable-EN.pdf",
+          "title": "Landmark Group media release",
+          "publisher": "Landmark Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "splash",
+      "buyer": "Splash",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "lat": 25.2,
+      "lng": 55.27,
+      "color": "#00ffff",
+      "group": "Landmark Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.landmarkgroup.com/themes/lmg/images/media/Media-Sustainable-EN.pdf",
+          "title": "Landmark Group media release",
+          "publisher": "Landmark Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "styli",
+      "buyer": "Styli",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "lat": 25.2,
+      "lng": 55.27,
+      "color": "#00ffff",
+      "group": "Landmark Group",
+      "categories": "apparel and home textiles",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.landmarkgroup.com/themes/lmg/images/media/Media-Sustainable-EN.pdf",
+          "title": "Landmark Group media release",
+          "publisher": "Landmark Group"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "abercrombiefitch",
+      "buyer": "Abercrombie & Fitch",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Abercrombie & Fitch"
+      ]
+    },
+    {
+      "id": "americaneagleoutfitters",
+      "buyer": "American Eagle Outfitters",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "American Eagle Outfitters"
+      ]
+    },
+    {
+      "id": "athleta",
+      "buyer": "Athleta",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Athleta"
+      ]
+    },
+    {
+      "id": "bananarepublic",
+      "buyer": "Banana Republic",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Banana Republic"
+      ]
+    },
+    {
+      "id": "calvinklein",
+      "buyer": "Calvin Klein",
+      "country": "USA",
+      "city": "New York",
+      "lat": 40.71,
+      "lng": -74.01,
+      "color": "#00ffff",
+      "group": "PVH",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.pvh.com/brands",
+          "title": "Our brands",
+          "publisher": "PVH"
+        }
+      ],
+      "aliases": [
+        "Calvin Klein"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "columbiasportswear",
+      "buyer": "Columbia Sportswear",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Columbia Sportswear"
+      ]
+    },
+    {
+      "id": "costco",
+      "buyer": "Costco",
+      "country": "USA",
+      "city": "Issaquah",
+      "lat": 47.5301,
+      "lng": -122.0326,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Costco"
+      ]
+    },
+    {
+      "id": "dickies",
+      "buyer": "Dickies",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Dickies"
+      ]
+    },
+    {
+      "id": "gap",
+      "buyer": "Gap",
+      "country": "USA",
+      "city": "San Francisco",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Gap"
+      ]
+    },
+    {
+      "id": "hellyhansen",
+      "buyer": "Helly Hansen",
+      "country": "USA",
+      "city": "Greensboro",
+      "lat": 36.07,
+      "lng": -79.79,
+      "color": "#00ffff",
+      "group": "Kontoor Brands",
+      "categories": "denim and outdoor apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.kontoorbrands.com/brands",
+          "title": "Our brands",
+          "publisher": "Kontoor Brands"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "hollister",
+      "buyer": "Hollister",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Hollister"
+      ]
+    },
+    {
+      "id": "jcpenney",
+      "buyer": "JCPenney",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "JCPenney"
+      ]
+    },
+    {
+      "id": "kohls",
+      "buyer": "Kohl's",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Kohl's"
+      ]
+    },
+    {
+      "id": "kontoorbrands",
+      "buyer": "Kontoor Brands",
+      "country": "USA",
+      "city": "Greensboro",
+      "lat": 36.07,
+      "lng": -79.79,
+      "color": "#00ffff",
+      "group": "Kontoor Brands",
+      "categories": "denim and outdoor apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.kontoorbrands.com/brands",
+          "title": "Our brands",
+          "publisher": "Kontoor Brands"
+        }
+      ],
+      "aliases": [],
+      "recordType": "Company / group"
+    },
+    {
+      "id": "lee",
+      "buyer": "Lee",
+      "country": "USA",
+      "city": "Greensboro",
+      "lat": 36.07,
+      "lng": -79.79,
+      "color": "#00ffff",
+      "group": "Kontoor Brands",
+      "categories": "denim and outdoor apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.kontoorbrands.com/brands",
+          "title": "Our brands",
+          "publisher": "Kontoor Brands"
+        }
+      ],
+      "aliases": [
+        "Lee"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "levis",
+      "buyer": "Levi's",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Levi's"
+      ]
+    },
+    {
+      "id": "macys",
+      "buyer": "Macy's",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Macy's"
+      ]
+    },
+    {
+      "id": "nike",
+      "buyer": "Nike",
+      "country": "USA",
+      "city": "Beaverton",
+      "lat": 45.4871,
+      "lng": -122.8037,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Nike"
+      ]
+    },
+    {
+      "id": "nordstrom",
+      "buyer": "Nordstrom",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Nordstrom"
+      ]
+    },
+    {
+      "id": "oldnavy",
+      "buyer": "Old Navy",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Old Navy"
+      ]
+    },
+    {
+      "id": "pvhcorp",
+      "buyer": "PVH Corp.",
+      "country": "USA",
+      "city": "New York",
+      "lat": 40.71,
+      "lng": -74.01,
+      "color": "#00ffff",
+      "group": "PVH",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.pvh.com/brands",
+          "title": "Our brands",
+          "publisher": "PVH"
+        }
+      ],
+      "aliases": [
+        "PVH Corp."
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "ralphlauren",
+      "buyer": "Ralph Lauren",
+      "country": "USA",
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Ralph Lauren"
+      ]
+    },
+    {
+      "id": "reebok",
+      "buyer": "Reebok",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Reebok"
+      ]
+    },
+    {
+      "id": "samsclub",
+      "buyer": "Sam's Club",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Sam's Club"
+      ]
+    },
+    {
+      "id": "target",
+      "buyer": "Target",
+      "country": "USA",
+      "city": "Minneapolis",
+      "lat": 44.9778,
+      "lng": -93.265,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Target"
+      ]
+    },
+    {
+      "id": "thenorthface",
+      "buyer": "The North Face",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "The North Face"
+      ]
+    },
+    {
+      "id": "timberland",
+      "buyer": "Timberland",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Timberland"
+      ]
+    },
+    {
+      "id": "tommyhilfiger",
+      "buyer": "Tommy Hilfiger",
+      "country": "USA",
+      "city": "New York",
+      "lat": 40.71,
+      "lng": -74.01,
+      "color": "#00ffff",
+      "group": "PVH",
+      "categories": "apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.pvh.com/brands",
+          "title": "Our brands",
+          "publisher": "PVH"
+        }
+      ],
+      "aliases": [
+        "Tommy Hilfiger"
+      ],
+      "recordType": "Brand / retail operation"
+    },
+    {
+      "id": "underarmour",
+      "buyer": "Under Armour",
+      "country": "USA",
+      "city": "Baltimore",
+      "lat": 39.2904,
+      "lng": -76.6122,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Under Armour"
+      ]
+    },
+    {
+      "id": "vans",
+      "buyer": "Vans",
+      "country": "USA",
+      "city": "",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Country anchor — not an office",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Vans"
+      ]
+    },
+    {
+      "id": "vfcorporation",
+      "buyer": "VF Corporation",
+      "country": "USA",
+      "city": "Denver",
+      "lat": 39.7392,
+      "lng": -104.9903,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "VF Corporation"
+      ]
+    },
+    {
+      "id": "walmart",
+      "buyer": "Walmart",
+      "country": "USA",
+      "city": "Bentonville",
+      "lat": 36.3729,
+      "lng": -94.2088,
+      "color": "#00bfff",
+      "locationBasis": "Legacy city location — unverified",
+      "reviewStatus": "Needs source review",
+      "categories": "apparel / textiles — scope to confirm",
+      "group": null,
+      "sources": [],
+      "aliases": [
+        "Walmart"
+      ]
+    },
+    {
+      "id": "wrangler",
+      "buyer": "Wrangler",
+      "country": "USA",
+      "city": "Greensboro",
+      "lat": 36.07,
+      "lng": -79.79,
+      "color": "#00ffff",
+      "group": "Kontoor Brands",
+      "categories": "denim and outdoor apparel",
+      "locationBasis": "Illustrative group / regional city anchor; not a buying-office address",
+      "reviewStatus": "Portfolio source checked",
+      "reviewedAt": "2026-09-12",
+      "sources": [
+        {
+          "url": "https://www.kontoorbrands.com/brands",
+          "title": "Our brands",
+          "publisher": "Kontoor Brands"
+        }
+      ],
+      "aliases": [
+        "Wrangler"
+      ],
+      "recordType": "Brand / retail operation"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Private API credentials
+.local-api/
+.local-credentials/
+server/private/users*.php
+server/private/discovery*.php
+.env
+.env.*
+API.env*
+
+# Shared buyer service credentials and runtime storage
+deployment/.private/
+server/private/config.php
+server/private/directory.php
+server/private/directory.lock.php
+server/private/directory.php.tmp.php
+
+# Generated releases, historical copies, and private deployment credentials
+/deployment/
+/archive/
+*.zip
+*.tar.gz
+
+# Only the access rule belongs in source control; all runtime data stays private
+/server/private/*
+!/server/private/.htaccess
